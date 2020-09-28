@@ -8,18 +8,19 @@
 4. [ ] (Optional) Translate the previous sketch to a drawing program.
 5. [ ] Identify the individual components of the site. Add individual files for
        them on the sass/components folder.
-6. [x] Choose a CSS Pre-Processor.
-7. [ ] Choose a color pallette for your site (Primary, secondary, and tertiary
+6. [ ] Package.json: Add the appropiate name, author and description.
+7. [x] Choose a CSS Pre-Processor.
+8. [ ] Choose a color pallette for your site (Primary, secondary, and tertiary
        colors).
     1. [ ] Choose a primary color.
     2. [ ] Choose a secondary and tertiary color using
            [this website](https://www.canva.com/colors/color-wheel/)
     3. [ ] Add them to the CSS variables.
-8. [ ] Choose a font-family for your site (for the Body, and a different one for
+9. [ ] Choose a font-family for your site (for the Body, and a different one for
        the titles).
-9. [x] Choose a Mobile-First or Desktop-First approach (This template is for a
-       Mobile-First approach).
-10. [x] Create an organized file-structure.
+10. [x] Choose a Mobile-First or Desktop-First approach (This template is for a
+        Mobile-First approach).
+11. [x] Create an organized file-structure.
 
 ## HTML
 
