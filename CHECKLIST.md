@@ -6,7 +6,8 @@
 2. [ ] Make a list of the pages you want your site to have.
 3. [ ] Sketch how you want your site to look.
 4. [ ] (Optional) Translate the previous sketch to a drawing program.
-5. [ ] Identify the individual components of the site.
+5. [ ] Identify the individual components of the site. Add individual files for
+       them on the sass/components folder.
 6. [x] Choose a CSS Pre-Processor.
 7. [ ] Choose a color pallette for your site (Primary, secondary, and tertiary
        colors).
