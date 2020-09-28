@@ -13,8 +13,8 @@
 8. [ ] Choose a color pallette for your site (Primary, secondary, and tertiary
        colors).
     1. [ ] Choose a primary color.
-    2. [ ] Choose a secondary and tertiary color using
-           [this website](https://www.canva.com/colors/color-wheel/)
+    2. [ ] Choose a secondary and tertiary color using [this
+           website][color-wheel]
     3. [ ] Add them to the CSS variables.
 9. [ ] Choose a font-family for your site (for the Body, and a different one for
        the titles).
@@ -45,3 +45,5 @@
 2. [ ] Delete unnecessary images.
 3. [ ] Make as few HTTP requests as possible.
 4. [ ] Run "npm run build:css" to prefix, compile and compress css.
+
+[color-wheel]: (https://www.canva.com/colors/color-wheel/)
