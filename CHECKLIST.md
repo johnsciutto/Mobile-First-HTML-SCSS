@@ -8,7 +8,7 @@
 4. [ ] (Optional) Translate the previous sketch to a drawing program.
 5. [ ] Identify the individual components of the site. Add individual files for
        them on the sass/components folder.
-6. [ ] Package.json: Add the appropiate name, author and description.
+6. [ ] Package.json: Add the appropriate name, author and description.
 7. [x] Choose a CSS Pre-Processor.
 8. [ ] Choose a color pallette for your site (Primary, secondary, and tertiary
        colors).
