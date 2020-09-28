@@ -1,4 +1,10 @@
 // COLORS
+$color-black: #333;
+$color-white: #eee;
+
+$color-font-primary: $color-black;
+// $color-font-secondary: ;
+
 $color-primary: #4169e1;
 $color-primary-light: lighten($color-primary, 15%);
 $color-primary-dark: darken($color-primary, 15%);
